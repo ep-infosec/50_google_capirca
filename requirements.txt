@@ -1,0 +1,8 @@
+# Dependencies
+# Usage:
+#   $ pip install -r requirements.txt
+
+absl-py
+ply
+PyYAML
+six>=1.12.0
